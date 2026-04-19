@@ -11,7 +11,7 @@ This project focuses on **intraoperative surgical instrument recognition for cat
 - Contrastive learning to optimize inter‑class and intra‑class feature distances
 
 ## Datasets
-- Public: IEEE Dataport CATARACTS <iframe width="100%" height="600" src="https://ieee-dataport.org//open-access/cataracts" title="Embedded Dataset Viewer" frameborder="0" allowfullscreen></iframe>
+- Public: [CATARACTS](https://ieee-dataport.org/open-access/cataracts) 
 
 ## License
 For academic research and educational use only.
